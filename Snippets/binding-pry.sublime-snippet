@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+binding.pry]]></content>
+    <tabTrigger>bp</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>Shortcut for inserting binding.pry into ruby source</description>
+</snippet>

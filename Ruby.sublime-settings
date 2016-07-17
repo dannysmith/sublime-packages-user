@@ -1,0 +1,23 @@
+{
+	"apply_syntax_extensions":
+	[
+		"simplecov",
+		"rake",
+		"podspec",
+		"thor",
+		"rb",
+		"rabl",
+		"jbuilder"
+	],
+	"extensions":
+	[
+		"simplecov",
+		"rake",
+		"podspec",
+		"thor",
+		"rb",
+		"rabl",
+		"jbuilder"
+	],
+  "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}

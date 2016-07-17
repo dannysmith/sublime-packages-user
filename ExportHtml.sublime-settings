@@ -1,0 +1,32 @@
+{
+  "html_panel": [
+    {
+      "Railscasts no Backgrounds": {
+        "numbers": false,
+        "browser_print": false,
+        "multi_select": true,
+        "color_scheme": "Packages/User/railscasts-extended-dannysmith-nobackground.tmTheme",
+        "style_gutter": false,
+        "no_header": true
+      }
+    },{
+      "Railscasts": {
+        "numbers": false,
+        "browser_print": false,
+        "multi_select": true,
+        "color_scheme": "Packages/User/railscasts-extended-dannysmith.tmTheme",
+        "style_gutter": false,
+        "no_header": true
+      }
+    },{
+      "Print in Grayscale": {
+          "numbers": true,
+          "wrap": 900,
+          "browser_print": true,
+          "multi_select": true,
+          "color_scheme": "Packages/ExportHtml/ColorSchemes/Print-Grayscale.tmTheme",
+          "style_gutter": false
+      }
+    }
+  ]
+}

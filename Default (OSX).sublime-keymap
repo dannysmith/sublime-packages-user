@@ -1,0 +1,15 @@
+[
+  {
+    // Export code to HTML
+    "keys": ["ctrl+alt+super+n"],
+    "command": "export_html",
+    "args": {
+          "numbers": false,
+          "browser_print": false,
+          "multi_select": true,
+          "color_scheme": "Packages/User/railscasts-extended-dannysmith-nobackground.tmTheme",
+          "style_gutter": false,
+          "no_header": true
+    }
+  }
+]
